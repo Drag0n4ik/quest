@@ -52,7 +52,10 @@ a:active {
 	border-radius: 30px;
 	margin: 200px 0px;
 	font-size: 2em;
-
+	transition: 0.5s;
+}
+.next_index:hover{
+	background: #00BFFF;
 }
 .next_index p {
 	padding: 30px 0px;
@@ -73,6 +76,10 @@ a:active {
 	border-radius: 30px;
 	font-size: 2em;
 	margin: -390px 0px;
+	transition: 0.5s;
+}
+.proceed_index:hover{
+	background: #FF4500;
 }
 .proceed_index p{
 	padding: 30px 0px;
