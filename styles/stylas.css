@@ -79,10 +79,13 @@ a:active {
 #proceed_index	{
 	
 }
+#proceed_index p{
+	font-family: 'Lobster', cursive;
+}
 .a p{
 	padding-top: 40px;
 	color: white;
-
+	
 	
 
 }
