@@ -1,0 +1,31 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	background: #1F5654;
+}
+
+.container{
+	width: 97.4%;
+	height: 94.2vh;
+
+	background: #A4C2C1;
+	border-radius: 30px ;
+	border: solid 20px #1F5654;
+
+}
+
+.p1s1{
+
+}
+
+.p1s1t{
+
+}
+
+.p1s1tp1{
+	font-size: 1.5em;
+}
+
+.p1s1tp2{
+	font-size: 0.5em;
+}
